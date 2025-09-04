@@ -57,5 +57,3 @@
 
 ---
 
-## 🎯 Final Note
-Only **features with significant Chi-Square / ANOVA results** should be included in the ML pipeline for predicting `Stress_Level`.
